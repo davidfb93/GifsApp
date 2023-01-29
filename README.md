@@ -1,6 +1,8 @@
 # GifsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Aplicación enfocada en la busqueda de imagenes tipo giifs utilizando la API de GIPHY.com 
+https://developers.giphy.com/
 
 ## Development server
 
